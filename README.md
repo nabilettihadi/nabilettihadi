@@ -5,12 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabilettihadi" alt="nabilettihadi" /></a> </p>
 
-- 👀 I’m interested in Full-Stack Web Developmentfull sta
-
+- 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning **and exploring various web technologies**
-  
 - 🏫 I'm a student at [@YouCodeSchool](https://github.com/YouCodeSchool)
-  
 - 📫 How to reach me **nettihadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
